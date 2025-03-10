@@ -7,7 +7,7 @@ import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class FirstapiTestHTML2 {
+public class FirstapiTestHTTP2 {
 
     @Test
     public void f() {
