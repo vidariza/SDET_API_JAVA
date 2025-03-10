@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
-public class FirstapiTestHTML {
+public class FirstapiTestHTTP {
   @Test
   public void f() {
   
